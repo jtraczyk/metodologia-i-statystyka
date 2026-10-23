@@ -1,0 +1,6 @@
+{
+  "name": "Metodologia badań psychologicznych i statystyka",
+  "description": "Metodologia badań psychologicznych i statystyka – interaktywne aplikacje dydaktyczne Jakuba Traczyka (Uniwersytet SWPS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

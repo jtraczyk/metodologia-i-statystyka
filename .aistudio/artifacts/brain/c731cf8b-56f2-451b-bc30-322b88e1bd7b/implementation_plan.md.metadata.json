@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan integracji podręcznika 'Materiały do zajęć' z repozytorium metodologia_statystyka jako nowej głównej zakładki obok 4 aplikacji:\n- Usunięcie starych osadzonych skryptów Shiny/OJS z dokumentu\n- Nowoczesny akademicki czytnik z 11 rozdziałami, spisem treści i wyszukiwarką pojęć\n- Pełna responsywność mobilna z menu rozdziałów\n- Spójna stylistyka #344B57 i płynne linkowanie z powiązanymi laboratoriami statystycznymi",
+  "updatedAt":  "2026-10-23T08:19:07.520025669Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
